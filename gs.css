@@ -35,3 +35,10 @@ h,td{
     border-bottom: 5px double rgb(41, 145, 236);
     border-left: 15px inset rgb(41, 145, 236);
 }
+.lor{color: rgb(41, 145, 236);font-style: italic; text-shadow: 2px 2px 2px;}
+
+.KIN:hover{ text-shadow: 2px 2px 2px coral;}
+.ZAR:hover{ text-shadow: 2px 2px 2px crimson;}
+
+
+
