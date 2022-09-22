@@ -3,9 +3,9 @@
 .direction{font-size: 20px;color: light black;}
 .name{ font-size: 40px; color: black;}
 .direction:hover{background-color: green; color: aquamarine;}
-.ZAR{ font-style:italic;color:  rgb(41, 145, 236);}
-.FIT{color: aquamarine; font-style: italic;}
-.KIN{color: rgb(7, 114, 114);font-style: italic;}   
+.ZAR:hover{ font-style:italic;color:  rgb(41, 145, 236);}
+.FIT:hover{color: aquamarine; font-style: italic;text-shadow: 2px 2px 2px;}
+.KIN:hover{color: rgb(7, 114, 114);font-style: italic;text-shadow:2px 2px 2px ;}   
 
 table{
     border-style: dashed;
@@ -35,10 +35,45 @@ h,td{
     border-bottom: 5px double rgb(41, 145, 236);
     border-left: 15px inset rgb(41, 145, 236);
 }
-.lor{color: rgb(41, 145, 236);font-style: italic; text-shadow: 2px 2px 2px;}
+.lor:hover{color: rgb(41, 145, 236);font-style: italic; text-shadow: 2px 2px 2px;}
 
 .KIN:hover{ text-shadow: 2px 2px 2px coral;}
 .ZAR:hover{ text-shadow: 2px 2px 2px crimson;}
 
+.material-icons{
+    font-size: 5px; color:blue;
+}
+ul.navbar-horizontal{
+list-style-type: none;
+margin: 20px; }
+
+ ul.navbar-horizontal li{
+ float: center;
+ background-color: rgb(23, 26, 203);
+}
+
+ul.navbar-horizontal a{
+text-align: center;
+ color: #74cf06;
+display: block;
+ padding:10px;
+margin:10px;
+ }
+ul.navbar-horizontal a:hover{
+ background-color: rgb(200, 100, 22);
+ color: rgb(209, 21, 57);
+ }
+li{
+float: left;
+
+ }
+i{
+color: chocolate;
+ font-size: 50px!important;
+ }
 
 
+
+
+
+   
