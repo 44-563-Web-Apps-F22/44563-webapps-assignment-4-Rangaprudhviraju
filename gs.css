@@ -6,3 +6,32 @@
 .ZAR{ font-style:italic;color:  rgb(41, 145, 236);}
 .FIT{color: aquamarine; font-style: italic;}
 .KIN{color: rgb(7, 114, 114);font-style: italic;}   
+
+table{
+    border-style: dashed;
+}
+th,td{
+    border: 1px solid rgb(2, 52, 97);
+}
+th{
+    color: blue;
+}
+td{
+    color: blueviolet;
+}
+tr:nth-child(even){
+    background-color: rgb(7, 114, 114);
+}
+td{
+    text-align: center;
+}
+h,td{
+    width: 130px;
+    padding: 2px,2px,2px,2px;
+    margin: 40px,20px,50px,0px;
+    background-color: rosybrown;
+    border-top: 3px solid rgb(41, 145, 236);
+    border-right: 4px dashed rgb(41, 145, 236);
+    border-bottom: 5px double rgb(41, 145, 236);
+    border-left: 15px inset rgb(41, 145, 236);
+}
