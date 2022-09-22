@@ -1,0 +1,8 @@
+.speech{font-size: 20px;color: black; font-style: italic;}
+.song{font-size: 20px; color: black; font-style: italic;}
+.direction{font-size: 20px;color: light black;}
+.name{ font-size: 40px; color: black;}
+.direction:hover{background-color: green; color: aquamarine;}
+.ZAR{ font-style:italic;color:  rgb(41, 145, 236);}
+.FIT{color: aquamarine; font-style: italic;}
+.KIN{color: rgb(7, 114, 114);font-style: italic;}   
